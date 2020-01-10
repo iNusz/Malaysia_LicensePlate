@@ -1,0 +1,4 @@
+1. sliding_crop 을 이용해서 해당 번호판 (Input Image) 를 자른다.
+2. ./Images 에 잘려진 사진들이 생성된다.
+3. sliding_test 를 이용해서 문자 인식을 한다.
+4. . 폴더에 reponsemap.csv 라는 파일이 생성된다.
